@@ -1,3 +1,3 @@
 # reto_prosegur
 
-Repositorio que aloja la prueba técnica realizada para Prosegur. 
+Repositorio creado para alojar la prueba técnica realizada para Prosegur. 
